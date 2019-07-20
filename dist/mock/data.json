@@ -1,0 +1,29 @@
+[
+    {
+        "image": "/source/song_1.jpg",
+        "audio": "/source/song_1.mp3",
+        "song": "慢半拍",
+        "album": "尘",
+        "singer": "薛之谦",
+        "duration": 241,
+        "isLike": true
+    },
+    {
+        "image": "/source/song_2.jpg",
+        "audio": "/source/song_2.mp3",
+        "song": "意外",
+        "album": "意外",
+        "singer": "薛之谦",
+        "duration": 287,
+        "isLike": false
+    },
+    {
+       "image": "/source/song_3.jpg",
+        "audio": "/source/song_3.mp3",
+        "song": "违背的青春",
+        "album": "违背的青春",
+        "singer": "薛之谦",
+        "duration": 336,
+        "isLike": false 
+    }
+]
